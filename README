@@ -1,0 +1,5 @@
+This file is part of GNUstep.
+
+It's a simple test which shows the retain count after .gorm loading.
+
+Gregory Casamento
